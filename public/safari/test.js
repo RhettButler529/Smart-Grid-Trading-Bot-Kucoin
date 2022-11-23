@@ -1,0 +1,3 @@
+function testView(){
+    alert('testView')
+}
